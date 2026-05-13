@@ -1,4 +1,4 @@
-# 🔥 High-Performance Grid-Based Environmental Spread Modeling
+# High-Performance Grid-Based Environmental Spread Modeling
 
 ### Using Multithreaded CPU Parallelism (OpenMP)
 
